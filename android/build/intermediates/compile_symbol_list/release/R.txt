@@ -1,0 +1,1 @@
+int drawable sceneform_hand_phone 0x0

@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml:1:1-5:12
+	package
+		ADDED from /Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml:2:11-44
+		INJECTED from /Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml:3:3-63
+	android:name
+		ADDED from /Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml:3:20-60
+uses-feature#android.hardware.camera.ar
+ADDED from /Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml:4:3-84
+	android:required
+		ADDED from /Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml:4:59-82
+	android:name
+		ADDED from /Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml:4:17-58
+uses-sdk
+INJECTED from /Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml
+INJECTED from /Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml

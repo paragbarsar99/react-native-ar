@@ -1,0 +1,2 @@
+com.reactnativearviewer
+drawable sceneform_hand_phone

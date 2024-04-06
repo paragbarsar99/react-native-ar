@@ -1,0 +1,18 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.reactnativearviewer" >
+4
+5    <uses-sdk android:minSdkVersion="24" />
+6
+7    <uses-permission android:name="android.permission.CAMERA" />
+7-->/Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml:3:3-63
+7-->/Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml:3:20-60
+8
+9    <uses-feature
+9-->/Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml:4:3-84
+10        android:name="android.hardware.camera.ar"
+10-->/Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml:4:17-58
+11        android:required="true" />
+11-->/Users/parag/React-Native/AR/ArDemoJublient/node_modules/react-native-ar-viewer/android/src/main/AndroidManifest.xml:4:59-82
+12
+13</manifest>
